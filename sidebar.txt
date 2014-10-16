@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[biu:home|Door43 (biu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-biu|d43-biu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-biu/archive/master.zip|d43-biu.zip]]
+
+**Recent Changes**
+{{changes>ns = biu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/biu|Ethnologue data]]
+
